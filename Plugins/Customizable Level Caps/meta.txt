@@ -1,0 +1,58 @@
+Name         = Customizable Level Cap
+Version      = 1.2
+Essentials = 20.1
+Website      = https://reliccastle.com/members/7217/
+Credits      = Phantombass
+
+#===========================
+# Change Log
+#===========================
+# 1.0.1
+# Fixes the level cap being reset every time you close the game.
+#===========================
+# 1.0.2
+# Fixes the level cap not being reset if you start a new game while having a save file already.
+#===========================
+# 1.0.3
+# Updates to 20.1.
+#===========================
+# 1.0.4
+# Fixes the Menu not disposing from the screen
+#===========================
+# 1.0.5
+# Another small bug fix
+#===========================
+# 1.0.6
+# Another small bug fix
+#===========================
+# 1.0.7
+# Another small bug fix
+#===========================
+# 1.0.8
+# Another small bug fix
+#===========================
+# 1.0.9
+# Another small bug fix
+#===========================
+# 1.0.10
+# Corrects Rare Candies being able to bypass level cap
+#===========================
+# 1.0.10
+# Corrects Rare Candies glitching when at level cap
+#===========================
+# 1.1
+# Fixes Compatibility with Voltseon's pause Menu
+#===========================
+# 1.1.1
+# Fixes bulk rare candies passing Level Cap
+#===========================
+# 1.1.2
+# Adds Level Cap toVoltseon's pause Menu screen
+#===========================
+# 1.1.3
+# Adds options menu toggle
+#===========================
+# 1.2
+# Fixes Compatibility with Voltseon's pause Menu
+# If you are NOT using Voltseon's Pause Menu, simply set the VOLTSEON_PAUSE_MENU_USED method to false and change the VPM Compatibility script to a .txt, or delete it.
+#===========================
