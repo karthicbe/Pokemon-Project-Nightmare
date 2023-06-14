@@ -2314,3 +2314,20 @@ Color = Black
 Shape = Quadruped
 Category = High King
 Pokedex = Legend says that by using its power to see all events from past to future, this Pokémon saved the creatures of a forest from a meteorite strike.
+#-------------------------------
+[BUDEW,1]
+FormName = Alolan
+Types = DARK
+Abilities = GLUTTONY,HUSTLE
+HiddenAbilities = THICKFAT
+Moves = 1,SCRATCH,1,LEER,4,TORMENT,8,HONECLAWS,12,FURYSWIPES,16,SCARYFACE,20,TAUNT,24,KNOCKOFF,28,FAKETEARS,32,AGILITY,36,IMPRISON,40,NIGHTDAZE,44,NASTYPLOT,48,FOULPLAY
+TutorMoves = ATTRACT,BLIZZARD,CONFIDE,COVET,DARKPULSE,DOUBLETEAM,EMBARGO,ENDEAVOR,FACADE,FRUSTRATION,GRASSKNOT,HIDDENPOWER,ICEBEAM,ICYWIND,IRONTAIL,LASTRESORT,PROTECT,QUASH,RAINDANCE,REST,RETURN,ROUND,SHADOWBALL,SHADOWCLAW,SHOCKWAVE,SLEEPTALK,SLUDGEBOMB,SNARL,SNATCH,SNORE,SUBSTITUTE,SUNNYDAY,SUPERFANG,SWAGGER,TAUNT,THIEF,TORMENT,TOXIC,UPROAR,UTURN,ZENHEADBUTT
+EggMoves = COUNTER,FINALGAMBIT,FURYSWIPES,MEFIRST,REVENGE,REVERSAL,SNATCH,STOCKPILE,SWALLOW,SWITCHEROO,UPROAR
+Weight = 3.8
+Color = Black
+Pokedex = With its incisors, it gnaws through doors and infiltrates people's homes. Then, with a twitch of its whiskers, it steals whatever food it finds.
+Generation = 7
+Flags = InheritFormWithEverStone
+WildItemUncommon = PECHABERRY
+#Evolutions = RATICATE,LevelNight,20
+#-------------------------------
