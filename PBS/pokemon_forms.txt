@@ -2315,6 +2315,8 @@ Shape = Quadruped
 Category = High King
 Pokedex = Legend says that by using its power to see all events from past to future, this Pokémon saved the creatures of a forest from a meteorite strike.
 #-------------------------------
+        # Pokemon Nightmare 
+#-------------------------------
 [BUDEW,1]
 FormName = Galarian
 Types = GROUND
@@ -2383,4 +2385,47 @@ Shape = Bipedal
 Pokedex = Entrancing with its alluring scent, this Roserade ensnares prey using its thorny arms with precision and speed.
 Generation = 8
 WildItemUncommon = POISONBARB
+#-------------------------------
+[SLUGMA,1]
+FormName = Galarian
+Types = POISON
+BaseStats = 40,40,40,20,70,40
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 50
+EVs = SPECIAL_ATTACK,1
+CatchRate = 190
+Happiness = 50
+Abilities = STENCH,STICKYHOLD
+HiddenAbilities = POISONTOUCH
+Moves = 1,POISONSTING,1,GROWTH,4,SMOG,8,SLUDGEBOMB,12,ACIDARMOR,16,TOXIC,20,SLUDGESLAP,24,SLUDGEWAVE,28,VENOMDRENCH,32,ACIDSPRAY,36,SLUDGESWAVE,40,CLEARSMOG,44,TOXICSPIKES,48,VENOMOUSBLAST
+TutorMoves = ATTRACT,BIND,BOUNCE,ENDURE,GASTROACID,GIGADRAIN,GYROBALL,HEATWAVE,IRONDEFENSE,IRONHEAD,IRONTAIL,KNOCKOFF,PAINSPLIT,ROLLOUT,SNORE,STEALTHROCK,STOMP,WONDERROOM
+Height = 0.7
+Weight = 35.0
+Color = Purple
+Shape = Serpentine
+Pokedex = In toxic habitats, the Slugma dwells. Its body can harden when exposed to cooler temperatures, rendering it immobile. To avoid this, it seeks warmth near hazardous substances like magma or venomous gases.
+Generation = 8
+Evolutions = MAGCARGO,Level,38
+#-------------------------------
+[MAGCARGO,1]
+FormName = Galarian
+Types = POISON,STEEL
+BaseStats = 60,50,120,30,90,80
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 151
+EVs = DEFENSE,2
+CatchRate = 75
+Happiness = 50
+Abilities = INTIMIDATE,STICKYHOLD
+HiddenAbilities = WEAKARMOR
+Moves = 1,POISONJAB,1,HARDEN,1,YAWN,1,INCINERATE,4,IRONDEFENSE,8,ACIDSPRAY,12,METALSOUND,16,CLEARSMOG,20,FLAMEBURST,24,TOXIC,28,FLASHCANNON,32,RECOVER,36,EXPLOSION,40,IRONHEAD,44,SHELLSMASH,48,FLAMETHROWER
+TutorMoves = ATTRACT,BIND,GASTROACID,GASTROACID,GIGADRAIN,GYROBALL,HEATWAVE,IRONDEFENSE,IRONDEFENSE,IRONHEAD,IRONTAIL,RECYCLE,ROLLOUT,SNORE,STEALTHROCK,STEELROLLER,WONDERROOM,WONDERROOM,WONDERROOM
+Height = 0.8
+Weight = 55.0
+Color = Purple
+Shape = Serpentine
+Pokedex = It showcases a shell forged from toxic alloys and solidified venom. Its existence within hazardous realms has melded its body into a lethal blend of poison and steel, bestowing it with formidable strength and endurance.
+Generation = 8
 #-------------------------------
